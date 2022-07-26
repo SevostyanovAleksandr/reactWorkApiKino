@@ -2,7 +2,7 @@
 - Интеграцией в проект API;
 - Документацией к API.
 
-# Getting Started with Create React App
+# Запуск проекта
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
