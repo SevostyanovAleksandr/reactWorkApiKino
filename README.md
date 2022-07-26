@@ -1,8 +1,10 @@
-# Учебный проект реализован с целью научиться работать с:
+# Project react API (API kino).
+
+## Учебный проект реализован с целью научиться работать с:
 - Интеграцией в проект API;
 - Документацией к API.
 
-# Запуск проекта
+## Запуск проекта
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
